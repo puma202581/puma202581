@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marc Puls</h1>
+<h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">Data Science and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puma202581&label=Profile%20views&color=0e75b6&style=flat" alt="puma202581" /> </p>
