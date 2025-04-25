@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, Tableau, API Scraping, etc**
 
-- 👯 I’m looking to collaborate on **projects around Supply Chain Planning and Optimization**
+- 👯 I’m looking to collaborate on **projects around Supply Chain Planning and Optimization in Time Series and Regression**
 
 - 🤝 I’m looking for help with **finding a new job where I can apply passion for Data Science, Planning and Supply Chain**
 
